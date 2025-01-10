@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddBankAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepositMoneyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditDeleteAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransactionHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransferForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewTransactionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WithdrawMoneyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
